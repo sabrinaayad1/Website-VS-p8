@@ -1,4 +1,4 @@
-# Title
+# VS Shoes
 * Sabrina Ayad
 * Vittoria Montilla
 
